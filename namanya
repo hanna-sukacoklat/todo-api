@@ -1,0 +1,6 @@
+const nama: string = "nama: Gloria Hanna P";
+const kelas: string = "kelas: XI-RPL1";
+const noabsen: string = "no.absen: 21";
+
+console.log(`${nama} | ${kelas} | ${noabsen}`);
+
